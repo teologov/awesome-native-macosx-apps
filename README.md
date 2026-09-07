@@ -191,6 +191,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Proxyman](https://proxyman.io/) - Native HTTP debugging proxy. `Freemium`
 - [RocketSim](https://www.rocketsim.app/) - Enhance Xcode Simulator productivity. `Freemium`
 - [Rockxy](https://rockxy.io) - macOS HTTP/HTTPS debugging proxy to capture, inspect, modify, and replay traffic. `Freemium` `Open Source`
+- [SnipperApp 3](https://snipperapp.com) - Code snippet manager with iCloud and Gist sync, and a bundled MCP server. `Paid (one-time)`
 - [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) - Native macOS app for managing SSH keys and SSH config entries. `Free` `Open Source`
 - [SF Symbols](https://developer.apple.com/sf-symbols/) - Browse and export Apple's SF Symbols. `Free`
 - [Vibedock](https://vibedock.dev/) - Manage Claude Code MCP servers from your macOS menu bar. `Paid (one-time)`
